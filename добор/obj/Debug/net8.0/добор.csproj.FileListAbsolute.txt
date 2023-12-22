@@ -1,0 +1,4 @@
+C:\Users\pajge\Desktop\qwerty\добор\obj\Debug\net8.0\добор.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pajge\Desktop\qwerty\добор\obj\Debug\net8.0\добор.AssemblyInfoInputs.cache
+C:\Users\pajge\Desktop\qwerty\добор\obj\Debug\net8.0\добор.AssemblyInfo.cs
+C:\Users\pajge\Desktop\qwerty\добор\obj\Debug\net8.0\добор.csproj.CoreCompileInputs.cache
